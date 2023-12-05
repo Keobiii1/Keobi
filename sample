@@ -1,53 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Keobi - Portfolio</title>
+    <title>Keobi's Portfolio</title>
 </head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;">
 
-<body>
-
-    <header>
-        <h1>Keobi</h1>
-        <p>Web Developer</p>
+    <header style="background-color: #333; color: #fff; text-align: center; padding: 1em;">
+        <h1>Keobi's Portfolio</h1>
+        <p style="margin: 0;">Aspiring Web Developer</p>
     </header>
 
-    <section>
-        <h2>About Me</h2>
-        <p>
-            Welcome to my portfolio! I am trying my best in web developing that focuses on creating interactive and
-            user-friendly websites. My skills include HTML, CSS, and JavaScript.
+    <section style="max-width: 800px; margin: 20px auto; padding: 20px; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+	<
+        <img src="your-photo.jpg" alt="Keobi's Photo" style="max-width: 300px; height: 300px; border-radius: 50%; margin-bottom: 20px; display: block; margin-left:auto; margin-right: auto;">
+
+        <h2 style="color: #333;">About Me</h2>
+        <p style="line-height: 1.6; color: #666; margin: 0;">
+            Welcome to my portfolio! I'm Keobi, an aspiring web developer who is just starting out on this exciting journey. As a beginner, I don't have any prior experience with HTML, CSS, or JavaScript, but I'm eager to learn and passionate about creating engaging and user-friendly websites.
         </p>
+
+        <h2 style="color: #333; margin-top: 20px;">Skills </h2>
+        <ul style="margin: 0; padding: 0; list-style: none; color: #666;">
+            <li>Python (Basics)</li>
+            <li>Java (Basics)</li>
+            <li>Mobile Application (Back-End)</li>
+        </ul>
+
+        <h2 style="color: #333; margin-top: 20px;">Contact</h2>
+        <p style="line-height: 1.6; color: #666; margin: 0;">Email: keobigntc@gmail.com</p>
+        <p style="line-height: 1.6; color: #666; margin: 0;">LinkedIn: linkedin.com/in/keobi</p>
+        <p style="line-height: 1.6; color: #666; margin: 0;">GitHub: github.com/Keobiii</p>
     </section>
-
-    <section>
-        <h2>Projects</h2>
-
-        <div>
-            <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
-        </div>
-
-        <div>
-            <h3>Project 2</h3>
-            <p>Description of Project 2.</p>
-        </div>
-
-    </section>
-
-    <section>
-        <h2>Contact</h2>
-        <p>Email: your.email@example.com</p>
-        <p>LinkedIn: linkedin.com/in/yourname</p>
-        <p>GitHub: github.com/yourusername</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Keobi. All Rights Reserved.</p>
-    </footer>
 
 </body>
-
 </html>
